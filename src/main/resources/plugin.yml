@@ -1,0 +1,4 @@
+name: Pets
+version: 1.0
+authors: [vx12, Fluxcus]
+main: org.vx12.pets.Pet
